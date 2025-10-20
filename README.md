@@ -1,10 +1,12 @@
 ## Hi there 👋
 
 I'm Tyler Stroud!
+[<img src="./assets/linkedin.svg" alt="linkedin icon" width="20"/>]("https://www.linkedin.com/in/tyler-w-stroud/")
+[<img src="./assets/web.svg" alt="linkedin icon" width="20"/>]("https://www.tylerstrouddev.com/")
 
-- <img src="./assets/graduated.svg" width="20"/> Student
-- <img src="./assets/data.svg" width="20"/> Developer
-- <img src="./assets/usmc-logo.png" width="20"/> Veteran
+<img src="./assets/graduated.svg" alt="student icon" width="30"/> **Student** <br/>
+<img src="./assets/data.svg" alt="developer icon" width="30"/> **Developer** <br/>
+<img src="./assets/usmc-logo.png" alt="marine logo" width="30"/> **Veteran** <br/><br/>
 <!--
 **TylerWStroud/TylerWStroud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
