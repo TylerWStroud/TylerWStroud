@@ -1,6 +1,10 @@
 ## Hi there 👋
-I'm Tyler Stroud! 
-<img>
+
+I'm Tyler Stroud!
+
+- <img src="./assets/graduated.svg" width="20"/> Student
+- <img src="./assets/data.svg" width="20"/> Developer
+- <img src="./assets/usmc-logo.png" width="20"/> Veteran
 <!--
 **TylerWStroud/TylerWStroud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
