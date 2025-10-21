@@ -14,7 +14,7 @@ When I'm not working on course projects, you'll most likely find me tinkering on
 <img src="./assets/html.svg" width="40"/>&nbsp;&nbsp;
 <img src="./assets/text.svg" width="40"/>&nbsp;&nbsp;
 <img src="./assets/tailwind.png" width="40"/>&nbsp;&nbsp;
-<img src="./assets/react-atom.svg.svg" width="40"/>&nbsp;&nbsp;
+<img src="./assets/react-atom.svg" width="40"/>&nbsp;&nbsp;
 <img src="./assets/typescript.svg" width="40"/>&nbsp;&nbsp;
 <img src="./assets/java.svg" width="40"/>&nbsp;&nbsp;
 <img src="./assets/python.svg" width="40"/>&nbsp;&nbsp;
