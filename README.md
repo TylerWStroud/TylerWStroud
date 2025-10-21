@@ -11,17 +11,18 @@ When I'm not working on course projects, you'll most likely find me tinkering on
 ### Languages and Tools:
 
 <div>
-<img src="./assets/HTMLCSSJS.png" width="50"/>&nbsp;&nbsp;
-<img src="./assets/tailwind.png" width="30"/>&nbsp;&nbsp;
-<img src="./assets/react.svg" width="30"/>&nbsp;&nbsp;
-<img src="./assets/typescript.svg" width="30"/>&nbsp;&nbsp;
-<img src="./assets/java.svg" width="30"/>&nbsp;&nbsp;
-<img src="./assets/python.svg" width="30"/>&nbsp;&nbsp;
-<img src="./assets/nodejs.svg" width="30"/>&nbsp;&nbsp;
-<img src="./assets/postgressql.png" width="30"/>&nbsp;&nbsp;
-<img src="./assets/supabase.png" width="30"/>&nbsp;&nbsp;
-<img src="./assets/vercel.png" width="30"/>&nbsp;&nbsp;
-<img src="./assets/Vitejs-logo.svg.png" width="30"/>
+<img src="./assets/html.svg" width="40"/>&nbsp;&nbsp;
+<img src="./assets/text.svg" width="40"/>&nbsp;&nbsp;
+<img src="./assets/tailwind.png" width="40"/>&nbsp;&nbsp;
+<img src="./assets/react-atom.svg.svg" width="40"/>&nbsp;&nbsp;
+<img src="./assets/typescript.svg" width="40"/>&nbsp;&nbsp;
+<img src="./assets/java.svg" width="40"/>&nbsp;&nbsp;
+<img src="./assets/python.svg" width="40"/>&nbsp;&nbsp;
+<img src="./assets/nodejs.svg" width="40"/>&nbsp;&nbsp;
+<img src="./assets/postgressql.png" width="40"/>&nbsp;&nbsp;
+<img src="./assets/supabase.png" width="40"/>&nbsp;&nbsp;
+<img src="./assets/vercel.png" width="40"/>&nbsp;&nbsp;
+<img src="./assets/Vitejs-logo.svg.png" width="40"/>
 </div>
 
 <!--
