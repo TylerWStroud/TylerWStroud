@@ -11,7 +11,7 @@ When I'm not working on course projects, you'll most likely find me tinkering on
 ### Languages and Tools:
 
 <div>
-<img src="./assets/HTMLCSSJS.png" width="30"/>&nbsp;&nbsp;
+<img src="./assets/HTMLCSSJS.png" width="50"/>&nbsp;&nbsp;
 <img src="./assets/tailwind.png" width="30"/>&nbsp;&nbsp;
 <img src="./assets/react.svg" width="30"/>&nbsp;&nbsp;
 <img src="./assets/typescript.svg" width="30"/>&nbsp;&nbsp;
