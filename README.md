@@ -9,17 +9,20 @@
 When I'm not working on course projects, you'll most likely find me tinkering on personal projects or playing guitar while my dog sleeps nearby.
 
 ### Languages and Tools:
-<img src="./assets/HTMLCSSJS.png" width="20"/>
-<img src="./assets/tailwind.png" width="20"/>
-<img src="./assets/react.svg" width="20"/>
-<img src="./assets/typescript.svg" width="20"/>
-<img src="./assets/java.svg" width="20"/>
-<img src="./assets/python.svg" width="20"/>
-<img src="./assets/nodejs.svg" width="20"/>
-<img src="./assets/postgressql.png" width="20"/>
-<img src="./assets/supabase.png" width="20"/>
-<img src="./assets/vercel.png" width="20"/>
-<img src="./assets/Vitejs-logo.svg.png" width="20"/>
+
+<div>
+<img src="./assets/HTMLCSSJS.png" width="30"/>&nbsp;&nbsp;
+<img src="./assets/tailwind.png" width="30"/>&nbsp;&nbsp;
+<img src="./assets/react.svg" width="30"/>&nbsp;&nbsp;
+<img src="./assets/typescript.svg" width="30"/>&nbsp;&nbsp;
+<img src="./assets/java.svg" width="30"/>&nbsp;&nbsp;
+<img src="./assets/python.svg" width="30"/>&nbsp;&nbsp;
+<img src="./assets/nodejs.svg" width="30"/>&nbsp;&nbsp;
+<img src="./assets/postgressql.png" width="30"/>&nbsp;&nbsp;
+<img src="./assets/supabase.png" width="30"/>&nbsp;&nbsp;
+<img src="./assets/vercel.png" width="30"/>&nbsp;&nbsp;
+<img src="./assets/Vitejs-logo.svg.png" width="30"/>
+</div>
 
 <!--
 **TylerWStroud/TylerWStroud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
