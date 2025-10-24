@@ -1,4 +1,4 @@
-## Hey there, I'm ![Tyler Stroud](https://www.tylerstrouddev.com/)!
+## Hey there, I'm [Tyler Stroud](https://www.tylerstrouddev.com/)!
 
 [<img src="./assets/linkedin.svg" alt="linkedin icon" width="20"/>](https://www.linkedin.com/in/tyler-w-stroud/)
 [<img src="./assets/web.svg" alt="linkedin icon" width="20"/>](https://www.tylerstrouddev.com/)
